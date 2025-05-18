@@ -11,7 +11,7 @@ Esta é uma aplicação CLI interativa que simula uma partida de blackjack, mais
 - **`type`: Interface da carta do Dealer e Jogador**
 - **`utils`: Ações dos Jogadores e valor da mão final**
 - **`card`: Classe carta e suas propriedades, métodos e valores**
-- **`deck`: Embaralhamento das cartas para ambos jogadores**
+- **`deck`: Lógica de embaralhamento das cartas para ambos jogadores**
 
 ## Instalação
 
